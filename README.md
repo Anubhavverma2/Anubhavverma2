@@ -10,7 +10,7 @@
 <br/><br/> 
 </div>
 
-# 💫 About Me:
+#  About Me:
 👋 Hi, I'm Anubhav Verma<br><br>I'm a Full-Stack Developer passionate about building scalable and AI-powered web applications using React, JavaScript, Node.js, Express.js, MongoDB, and modern web technologies.<br><br>Recently, I built "DocuMind AI", an AI-powered document question-answering platform that enables users to upload PDFs and interact with them using Retrieval-Augmented Generation (RAG). The application integrates Groq's LLaMA model with vector embeddings to deliver fast, context-aware responses through a modern React interface.<br><br>I have also developed projects including a Smart Productivity Planner", featuring task management, habit tracking, Pomodoro timer, voice input, and offline support to enhance personal productivity.<br><br>My experience includes working on full-stack MERN applications, designing REST APIs, implementing secure JWT authentication, integrating AI services, and deploying applications using Vercel, Render, and MongoDB Atlas.<br><br>Currently, I'm exploring AWS, Docker, TypeScript, system design, and scalable backend architecture while continuously building real-world projects and strengthening my problem-solving skills.<br><br>I'm always excited to learn new technologies, contribute to impactful projects, and collaborate with developers across the open-source community.<br>
 
 
