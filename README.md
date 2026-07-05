@@ -5,7 +5,7 @@
 <br/>
 <br/>
 <img src="https://img.shields.io/badge/MCA-KIET_Group_of_Institutions-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CGPA-8.2-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CGPA-7-4F46E5?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Location-Ghaziabad,_India-6366F1?style=for-the-badge"/> 
 <br/><br/> 
 # 💫 About Me:
