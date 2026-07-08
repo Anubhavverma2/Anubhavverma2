@@ -33,7 +33,7 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashutosh-Choubey27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=7C3AED&text_color=FFFFFF"/>
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashutosh-Choubey27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=7C3AED&text_color=FFFFFF"/> -->
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashutosh-Choubey27&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=7C3AED&currStreakLabel=A855F7"/>
 
