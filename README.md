@@ -87,10 +87,39 @@
   <img src="https://streak-stats.demolab.com?user=Anubhavverma2&theme=tokyonight&hide_border=true" />
 </p>
 
+# 🚀 Featured Projects
 
+<details>
+<summary><b>🤖 DocuMind AI - AI Powered Document Intelligence Platform</b></summary>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Anubhavverma2&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br/>
+
+An AI-powered full-stack document intelligence platform that allows users to upload PDF, DOCX, PPTX, XLSX, and TXT files and interact with them using natural language. Built using a Retrieval-Augmented Generation (RAG) pipeline with semantic search for fast and context-aware responses.
+
+| Category | Details |
+|---|---|
+| Stack | React.js, Node.js, Express.js, MongoDB, Groq LLaMA 3.3 |
+| AI | RAG Pipeline, Vector Embeddings, Cosine Similarity Search |
+| Documents | PDF, DOCX, PPTX, XLSX, TXT |
+| Authentication | JWT Authentication |
+| Database | MongoDB Atlas |
+| Deployment | Vercel, Render, MongoDB Atlas |
+| Live Demo | https://documind-ai-project-011.vercel.app |
+| Repository | https://github.com/Anubhavverma2/documind-ai |
+
+### 🚀 Key Features
+
+- 📄 Upload multiple document formats
+- 🤖 AI-powered question answering using Groq LLaMA 3.3
+- 🧠 Retrieval-Augmented Generation (RAG)
+- 🔍 Vector embeddings with cosine similarity search
+- ⚡ Top-5 semantic document retrieval
+- 🔐 JWT Authentication & Protected Routes
+- ☁️ Fully deployed on Vercel, Render & MongoDB Atlas
+- 📱 Responsive modern UI
+
+</details>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
