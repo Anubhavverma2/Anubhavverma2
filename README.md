@@ -32,23 +32,13 @@
 # GitHub Analytics
 
 
-
-<!-- <div align="center">
-
-<img height="180em" src="https://streak-stats.demolab.com?user=Anubhavverma2&theme=tokyonight&hide_border=true"/>
-
-</div> -->
-
-
 ---
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Anubhavverma2&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anubhavverma2&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Anubhavverma2&theme=radical&no-frame=false&no-bg=true&margin-w=4)
