@@ -29,11 +29,19 @@
 </div>
 
 ---
-# 📊 GitHub Stats
+# GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anubhavverma2&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashutosh-Choubey27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=7C3AED&text_color=FFFFFF"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashutosh-Choubey27&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=7C3AED&currStreakLabel=A855F7"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh-Choubey27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF"/>
+
+</div>
+
+---
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Anubhavverma2&theme=tokyonight&hide_border=true" />
