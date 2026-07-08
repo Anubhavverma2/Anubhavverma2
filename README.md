@@ -23,6 +23,9 @@
 ![](https://github-readme-stats.shion.dev/api?username=Anubhavverma2&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Anubhavverma2&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Anubhavverma2&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Anubhavverma2&theme=tokyonight&hide_border=true" />
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Anubhavverma2&theme=radical&no-frame=false&no-bg=true&margin-w=4)
