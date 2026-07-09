@@ -87,7 +87,7 @@
   <img src="https://streak-stats.demolab.com?user=Anubhavverma2&theme=tokyonight&hide_border=true" />
 </p>
 
-# 🚀 Featured Projects
+# 🌐Live Projects
 
 <details>
 <summary><b>🤖 DocuMind AI - AI Powered Document Intelligence Platform</b></summary>
@@ -120,11 +120,7 @@ An AI-powered full-stack document intelligence platform that allows users to upl
 
 </details>
 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
-[![](https://komarev.com/ghpvc/?username=Anubhavverma2&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
