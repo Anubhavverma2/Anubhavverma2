@@ -86,6 +86,8 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Anubhavverma2&theme=tokyonight&hide_border=true" />
 </p>
+<hr style="border:1px solid #30363d;">
+
 
 # 🌐Live Projects
 
