@@ -90,7 +90,35 @@
 
 
 # 🌐Live Projects
+<details>
+<summary><b>🛍️ Myntra Clone – Full Stack E-Commerce Platform</b></summary>
 
+<br/>
+
+A feature-rich full-stack fashion e-commerce platform inspired by Myntra, built with the MERN Stack. The application delivers a seamless shopping experience with secure authentication, personalized recommendations, wishlist management, cart functionality, and responsive design.
+
+| Category | Details |
+|---|---|
+| Stack | React.js, Node.js, Express.js, MongoDB |
+| Authentication | JWT Authentication |
+| Features | Product Search, Categories, Wishlist, Shopping Cart, User Profile |
+| Performance | Optimized product loading and responsive UI |
+| Database | MongoDB Atlas |
+| Deployment | Vercel (Frontend), Render (Backend), MongoDB Atlas |
+| 🌐 Live Demo | https://myntra-clone-two-xi.vercel.app |
+| 📂 Repository | https://github.com/Anubhavverma2/myntra-clone |
+
+### 🚀 Key Engineering Highlights
+
+- 🛍️ Modern fashion e-commerce interface inspired by Myntra
+- 🔍 Product search, filtering, and category navigation
+- ❤️ Wishlist management with persistent storage
+- 🛒 Shopping cart with quantity management
+- 👤 Secure JWT-based authentication
+- 📱 Fully responsive design for mobile and desktop
+- ⚡ RESTful API architecture with MongoDB integration
+
+</details>
 <details>
 <summary><b>🤖 DocuMind AI - AI Powered Document Intelligence Platform</b></summary>
 
